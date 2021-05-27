@@ -17,5 +17,5 @@ INSERT INTO t_colores (nombre_color_espaniol, nombre_color_ingles) VALUES ('BLAN
                                                                         ('ROSA', 'PINK'),
                                                                         ('VIOLETA', 'VIOLET'),
                                                                         ('MORADO', 'PUPLE'),
-                                                                        ('DORADO', 'GOLDEN'),
+                                                                        ('DORADO', 'GOLD'),
                                                                         ('PLATEADO', 'SILVER');

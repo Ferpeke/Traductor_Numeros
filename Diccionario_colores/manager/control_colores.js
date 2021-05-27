@@ -31,7 +31,7 @@ $(document).ready(() => {
 
           if(respuesta != "0"){
 
-            if(respuesta == 'WHITE' || respuesta == 'YELLOW' || respuesta == 'LIME' ){
+            if(respuesta == 'WHITE' || respuesta == 'YELLOW' || respuesta == 'LIME' || respuesta == "PINK" ){
 
               $('#mostrar_color').html(`
           
